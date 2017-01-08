@@ -14,14 +14,14 @@ To run this project you should have python 3 and PostgreSQL installed in your co
 
 1. Install `psycopg2` python package:
 
-    pip install psycopg2
+    `pip install psycopg2`
 
 2. Run `tournament.sql` script and create database:
 
-    psql -f tournament.sql
+    `psql -f tournament.sql`
 
 3. Run tests script:
 
-    python tournament_test.py
+    `python tournament_test.py`
 
 And that is all! You should see that tests passed well.

@@ -25,6 +25,6 @@ Tournament project
 
 Run tests script:
 
-    `python tournament_test.py`
+    python tournament_test.py
 
 And that is all! You should see that tests passed well.

@@ -6,8 +6,8 @@ This project represents a Python module that uses the PostgreSQL database to kee
 ## Whats included?
 Tournament project
 - `tournament.sql` - sets up a tournament database schema with tables
-- tournament.py - contains methods to connect, read, add, delete players and matches
-- tournament_test.py - contains sctipts to test the methods implemented in `tournament.py` file
+- `tournament.py` - contains methods to connect, read, add, delete players and matches
+- `tournament_test.py` - contains sctipts to test the methods implemented in `tournament.py` file
 
 ## How to setup environment?
 
